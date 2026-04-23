@@ -1,3 +1,6 @@
-https://tasneemsk500.github.io/goal_steeper/
+Goal Steepper
 
 Created a smart calendar with a last-minute feature event that automatically decides which slot is empty to accommodate any additional last minute events that we forgot to include to our daily calendar. It uses basic HTML, CSS and JavaScript
+
+Here's the preview link:
+https://tasneemsk500.github.io/goal_steeper/
